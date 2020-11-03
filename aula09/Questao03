@@ -1,0 +1,4 @@
+Batista&Morais
+
+3. Os construtores são métodos especiais, a qual precisam ter o mesmo nome da classe e, portanto, possuem características únicas da classe. Dessa forma, as subclasses não herdam diretamente os construtores, mas esses podem ser acessados através da referência super.
+
